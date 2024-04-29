@@ -1,5 +1,5 @@
 import "@radix-ui/themes/styles.css";
-import { Theme, ThemePanel } from "@radix-ui/themes";
+import { Theme } from "@radix-ui/themes";
 import "./App.css";
 import { RadixComponent } from "./RadixComponent/RadixComponent";
 
@@ -11,7 +11,6 @@ function App() {
         panelBackground="solid"
         radius="large"
         scaling="110%"
-        
       >
         <RadixComponent></RadixComponent>
       </Theme>
