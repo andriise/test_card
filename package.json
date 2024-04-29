@@ -2,6 +2,7 @@
   "name": "test_card",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://andriise.github.io/test_card/",
   "dependencies": {
     "@radix-ui/themes": "^3.0.2",
     "@testing-library/jest-dom": "^5.17.0",
